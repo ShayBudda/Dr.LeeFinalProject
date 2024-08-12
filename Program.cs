@@ -241,3 +241,8 @@ public class InventoryManagementSystem // Declaring the main class
     }
 }
 
+// This project is an inventory management system that utilizes several methods to create a way to create, store, delete, or update items.
+// When you run the project it will prompt you with inputs. First it will ask you the file directory of the text file you want to update.
+// After pasting that, it will ask if you want to add, update, delete, or view items in the text file. This can be used for games, shopping carts,
+// or general tracking of items. I like the flexibility this program allows for. More about how the code works is within the comments. 
+
